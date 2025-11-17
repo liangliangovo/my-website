@@ -1,4 +1,5 @@
 function showMessage() {
-    alert("你刚刚点击了按钮！");
-  }
+    window.location.href = "page2.html";
+}
+
   
