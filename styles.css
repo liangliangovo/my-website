@@ -1,0 +1,37 @@
+/* 整个页面的基础样式 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f7f7f7;
+  }
+  
+  /* 顶部区域样式 */
+  header {
+    background: #4a90e2;  /* 蓝色背景 */
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* 内容区 */
+  section {
+    padding: 20px;
+    font-size: 18px;
+  }
+  
+  /* 按钮样式 */
+  button {
+    padding: 10px 18px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4a90e2;
+    border: none;
+    color: white;
+    border-radius: 6px;
+  }
+  
+  button:hover {
+    background-color: #357ABD;
+  }
+  
